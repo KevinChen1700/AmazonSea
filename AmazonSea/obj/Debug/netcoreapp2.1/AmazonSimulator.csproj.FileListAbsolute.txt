@@ -1,0 +1,98 @@
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\new amazon\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\new amazon 1\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\test\amazonsimulator-master\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\AmazonSea\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\AmazonSea\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Eigenaar\Desktop\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Eigenaar\Desktop\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Eigenaar\Desktop\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Eigenaar\Desktop\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\AmazonSea-master\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.deps.json
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.json
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.runtimeconfig.dev.json
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\bin\Debug\netcoreapp2.1\AmazonSimulator.pdb
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csprojAssemblyReference.cache
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorAssemblyInfo.cs
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.RazorTargetAssemblyInfo.cache
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.dll
+C:\Users\Startklaar\Desktop\jaar 2 ICT\periode 1\Graphics + OOP\AmazonSimulator\AmazonSea-master\obj\Debug\netcoreapp2.1\AmazonSimulator.pdb

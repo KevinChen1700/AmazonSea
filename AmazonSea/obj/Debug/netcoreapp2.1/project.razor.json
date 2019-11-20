@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Startklaar\\Desktop\\jaar 2 ICT\\periode 1\\Graphics + OOP\\AmazonSimulator\\AmazonSea-master\\AmazonSimulator.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
